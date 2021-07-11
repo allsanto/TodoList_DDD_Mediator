@@ -1,0 +1,9 @@
+C:\Users\Allan\Google Drive\PROJETOS\30 - TodoList Mediator\TodoListDDDMediator\TodoListDDDMediator\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\Allan\Google Drive\PROJETOS\30 - TodoList Mediator\TodoListDDDMediator\TodoListDDDMediator\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Allan\Google Drive\PROJETOS\30 - TodoList Mediator\TodoListDDDMediator\TodoListDDDMediator\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Allan\Google Drive\PROJETOS\30 - TodoList Mediator\TodoListDDDMediator\TodoListDDDMediator\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Allan\Google Drive\PROJETOS\30 - TodoList Mediator\TodoListDDDMediator\TodoListDDDMediator\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\Allan\Google Drive\PROJETOS\30 - TodoList Mediator\TodoListDDDMediator\TodoListDDDMediator\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Allan\Google Drive\PROJETOS\30 - TodoList Mediator\TodoListDDDMediator\TodoListDDDMediator\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Allan\Google Drive\PROJETOS\30 - TodoList Mediator\TodoListDDDMediator\TodoListDDDMediator\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Allan\Google Drive\PROJETOS\30 - TodoList Mediator\TodoListDDDMediator\TodoListDDDMediator\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache

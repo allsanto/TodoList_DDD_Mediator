@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TodoListDDDMediator</name>
+    </assembly>
+    <members>
+        <member name="M:TodoListDDDMediator.Controllers.ListController.Insert(Domain.Commands.InsertList.InsertListCommand)">
+            <summary>
+            Insertir um item da lista
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TodoListDDDMediator.Controllers.ListController.GetAll">
+            <summary>
+            Retornar todos itens da Lista
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TodoListDDDMediator.Controllers.ListController.Delete(Domain.Commands.DeleteList.DeleteListCommand)">
+            <summary>
+            Deleta um item da lista
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TodoListDDDMediator.Controllers.ListController.Update(Domain.Commands.UpdateList.UpdateListCommand)">
+            <summary>
+            Atualizar item
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
